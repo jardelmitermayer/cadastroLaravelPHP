@@ -16,7 +16,7 @@ https://www.udemy.com/user/mpro-2/
   <tr>
     <td align="center">
       <a href="https://github.com/jardelmitermayer">
-        <img src="https://avatars1.githubusercontent.com/u/27022914?v=4" width="100px;" alt="Jardel Mitermayer"/>
+        <img src="https://avatars.githubusercontent.com/u/58043717?v=4" width="100px;" alt="Jardel Mitermayer"/>
         <br />
         <sub>
           <b>Jardel Mitermayer</b>
