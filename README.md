@@ -5,11 +5,6 @@
 
 O projeto é desenvolvido a partir do curso <a href="https://www.udemy.com/course/laravelcompleto/">Laravel 5.8 Completo - O mais poderoso Framework PHP </a> com o intuito de aprender sobre o framework Laravel.
 
-
-https://avatars.githubusercontent.com/u/58043717?v=4
-
-https://www.udemy.com/user/mpro-2/
-
 # :construction_worker: Executando
 
 ```bash
