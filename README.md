@@ -10,6 +10,28 @@ https://avatars.githubusercontent.com/u/58043717?v=4
 
 https://www.udemy.com/user/mpro-2/
 
+# :construction_worker: Executando
+
+```bash
+# Clone o Repositório
+$ https://github.com/jardelmitermayer/cadastroLaravelPHP.git
+```
+
+```bash
+# Baixe as dependendências
+$ composer install
+$ npm install
+$ npm run dev
+```
+
+```bash
+# Execute
+$ php artisan serve
+```
+
+Acesse <http://localhost:8000> para ver o resultado.
+
+
 # :computer: Autores
 
 <table>
