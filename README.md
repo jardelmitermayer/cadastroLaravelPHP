@@ -3,7 +3,7 @@
 
 ## Sobre o projeto
 
-O projeto é desenvolvido a partir do curso Laravel 5.8 Completo - O mais poderoso Framework PHP [Link](https://www.udemy.com/course/laravelcompleto/) com o intuito de aprender sobre o framework Laravel.
+O projeto é desenvolvido a partir do curso <a href="https://www.udemy.com/course/laravelcompleto/">Laravel 5.8 Completo - O mais poderoso Framework PHP </a> com o intuito de aprender sobre o framework Laravel.
 
 
 https://avatars.githubusercontent.com/u/58043717?v=4
