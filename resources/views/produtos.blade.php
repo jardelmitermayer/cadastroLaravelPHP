@@ -126,10 +126,22 @@
                 }
             });
         }    
+        function criarProduto () {
+            prod = {
+                nome: $("#nomeProduto").val(),
+                preco: $("#precoProduto").val(),
+                estoque: $("#quantidadeProduto").val(),
+                categoria_id: $("#categoriaProduto").val(),
+            };
+            $.post("/api/produtos", prod, function (data){
+                console.log(data);
+            })
+        }
 
         $("#formProduto").submit( function (event){
             event.preventDefault();
-            console.log('teste');
+            criarProduto();
+            $("dlgProdutos").modal('hidden');
         });
 
         $(function(){
