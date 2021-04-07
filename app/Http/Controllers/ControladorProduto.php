@@ -59,7 +59,7 @@ class ControladorProduto extends Controller
     {
         $prod = Produto::find($id);
         if (isset($prod)) {
-            return json_encode($prod);
+            return json_encode($prod);            
         }
         return response('Produto não encontrado', 404);
     }
@@ -84,6 +84,7 @@ class ControladorProduto extends Controller
      */
     public function update(Request $request, $id)
     {
+        $prod = Produto::find($id);
         if (isset($prod)) {
             $prod->nome = $request->input('nome');
             $prod->preco = $request->input('preco');
